@@ -27,3 +27,13 @@ ch3
 * 함수, 익명함수, 즉시 실행 함수
 * 전역변수와 지역변수
 
+ch4
+--------------------
+* 이벤트 핸들러
+* jquery - ready
+* jquery - hide, show, toggle
+* jquery - fadeIn, fadeOut, fadeToggle, fadeTo
+* jquery - slideDown, slideUp, slideToggle
+* jquery - animate
+* jquery - stop
+* 체이닝 기법
