@@ -37,3 +37,11 @@ ch4
 * jquery - animate
 * jquery - stop
 * 체이닝 기법
+
+ch5
+--------------------
+* text, html, val, attr
+* append, prepend, after, before, remove, empty
+* addClass, removeClass, toggleClass, css
+* outerHeight, outerWidth
+* parent, parents, parentsUntil, children, find, siblings, next, nextAll, nextUntil, prev, prevAll
