@@ -45,3 +45,11 @@ ch5
 * addClass, removeClass, toggleClass, css
 * outerHeight, outerWidth
 * parent, parents, parentsUntil, children, find, siblings, next, nextAll, nextUntil, prev, prevAll
+* first, last, eq, filter, not
+
+ch6
+--------------------
+* Date 객체
+* Math 객체
+* BOM 객체
+* DOM 객체
